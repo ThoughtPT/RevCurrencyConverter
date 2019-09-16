@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="colorAccent">@color/colorBlack</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:windowBackground">@color/colorBlack</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:statusBarColor">@color/colorBlack</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="ToolbarTheme">
+        <item name="android:textColorSecondary">@color/colorBlack</item>
+        <item name="android:background">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/text_size_toolbar</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RevSample</string>
+
+    <!--Titles-->
+    <string name="rateAndConversionTitle">Rates &amp; conversions</string>
+    <string name="tabAllRatesTitle">All rates</string>
+    <string name="tabConverterTitle">Converter</string>
+
+    <string name="loading">Loading data</string>
+    <string name="noInternetWarning">No internet connection\n Rates and Conversions may be inaccurate</string>
+    <string name="connectedInternetWarning">You are connected to the internet</string>
+</resources>
